@@ -11,4 +11,5 @@
         <maven.compiler.target>21</maven.compiler.target>
         <exec.mainClass>org.Jhonatan.App.Principal</exec.mainClass>
     </properties>
+    <name>Ejercicios-de-ordenamiento-y-busqueda</name>
 </project>
