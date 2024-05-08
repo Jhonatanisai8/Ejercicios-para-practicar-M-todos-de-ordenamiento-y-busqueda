@@ -1,4 +1,4 @@
-package org.Jhonatan.App.Ejercicio01OrdenarEnteros;
+package org.Jhonatan.App.MergetSort.Ejercicio01OrdenarEnteros;
 
 public class Ejercicio01 {
 

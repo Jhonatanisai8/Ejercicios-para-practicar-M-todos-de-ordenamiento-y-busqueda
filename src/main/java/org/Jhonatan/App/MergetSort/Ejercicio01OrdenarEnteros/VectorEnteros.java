@@ -1,4 +1,4 @@
-package org.Jhonatan.App.Ejercicio01OrdenarEnteros;
+package org.Jhonatan.App.MergetSort.Ejercicio01OrdenarEnteros;
 
 public class VectorEnteros {
 
@@ -12,7 +12,7 @@ public class VectorEnteros {
         int mitad;
         if (izq < dere) {
             mitad = (izq + dere) / 2;
-            mergetNumeros(arregloEnteros, izq, mitad);
+            mergetNumeros(arreglo, izq, mitad);
             mergetNumeros(arreglo, mitad + 1, dere);
             mergetShort(arreglo, izq, mitad, dere);
         }

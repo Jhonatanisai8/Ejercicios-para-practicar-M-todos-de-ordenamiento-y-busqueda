@@ -1,4 +1,4 @@
-package org.Jhonatan.App.Ejercicio02OrdenarPalabras;
+package org.Jhonatan.App.MergetSort.Ejercicio02OrdenarPalabras;
 
 public class VectorPalabras {
 

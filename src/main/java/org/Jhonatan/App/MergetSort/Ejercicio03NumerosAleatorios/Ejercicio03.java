@@ -1,5 +1,4 @@
-package org.Jhonatan.App.Ejercicio03NumerosAleatorios;
-
+package org.Jhonatan.App.MergetSort.Ejercicio03NumerosAleatorios;
 public class Ejercicio03 {
 
     public static void main(String[] args) {
