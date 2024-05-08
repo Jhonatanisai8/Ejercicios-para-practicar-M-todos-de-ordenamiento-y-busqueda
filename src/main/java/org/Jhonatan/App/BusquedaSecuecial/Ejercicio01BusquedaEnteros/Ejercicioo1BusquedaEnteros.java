@@ -9,7 +9,7 @@ public class Ejercicioo1BusquedaEnteros {
         System.out.print(arregloEntero.mostrarDatos());
 
         //elemento a buscar
-        int elementoBuscar = -3;
+        int elementoBuscar = 5;
         System.out.println("\n" + elementoBuscar + " " + arregloEntero.busqueda(elementoBuscar));
 
     }
